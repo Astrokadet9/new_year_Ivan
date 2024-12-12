@@ -1,0 +1,48 @@
+ h1{
+    text-align: center;
+ }
+ img{
+   width: 50%
+ }
+ p{
+  color: black;
+  font-size: 20px;
+ }
+ footer{
+  text-align: center;
+  background-color: aqua;
+  color: midnightblue;
+  font-size: 20px;
+ }
+ a{
+  font-size: 20px;
+  background-color: aquamarine;
+  text-align: center;
+  width: 50%;
+
+ }
+
+ nav{
+  display: flex;
+  justify-content: space-around;
+ }
+
+ nav a{
+   text-decoration: none;
+   border: 1px solid blue;
+   margin: 10px;
+   padding: 7px;
+ }
+ p{ 
+  background-color: antiquewhite;
+ }
+ h1{ 
+  background-color: goldenrod;
+
+ }
+ body{
+  background-color: powderblue;
+ }
+ h2{
+  text-align: center;
+ }
